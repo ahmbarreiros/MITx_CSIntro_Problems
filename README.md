@@ -7,6 +7,8 @@ I've decided to make a repository so I can come back to these, reanalyze it and 
 
 ### MITx_biggestV.py
 
+#### Problem 3.6.3 (biggest)
+
 - With my approach, it turned out to be inconvenient to associate the number of values to the key of the dictionary. Think my code is not really efficient (especially in this section), but it works.
 
   ```python
